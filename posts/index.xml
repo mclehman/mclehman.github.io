@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on maxfieldlehman.com</title>
-    <link>https://mclehman.github.io/posts/</link>
+    <link>https://maxfieldlehman.com/posts/</link>
     <description>Recent content in Posts on maxfieldlehman.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Mar 2018 22:27:40 -0700</lastBuildDate>
     
-	<atom:link href="https://mclehman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maxfieldlehman.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building This Site</title>
-      <link>https://mclehman.github.io/posts/building-this-site/</link>
+      <link>https://maxfieldlehman.com/posts/building-this-site/</link>
       <pubDate>Thu, 29 Mar 2018 22:27:40 -0700</pubDate>
       
-      <guid>https://mclehman.github.io/posts/building-this-site/</guid>
+      <guid>https://maxfieldlehman.com/posts/building-this-site/</guid>
       <description>I shopped around a little before deciding to use Hugo as the generator for my site. I&#39;d been meaning to give Gutenberg a chance for a while, and Hakyll appeals to the part of my brain that likes taking painfully abstract math courses, but in the end I decided to go for something a bit more established and popular.
 One of the perks of Hugo is Org mode support as a drop in replacement for Markdown.</description>
     </item>
     
     <item>
       <title>Genesis</title>
-      <link>https://mclehman.github.io/posts/genesis/</link>
+      <link>https://maxfieldlehman.com/posts/genesis/</link>
       <pubDate>Thu, 29 Mar 2018 14:15:35 -0700</pubDate>
       
-      <guid>https://mclehman.github.io/posts/genesis/</guid>
+      <guid>https://maxfieldlehman.com/posts/genesis/</guid>
       <description>At a truly inopportune time, I&#39;ve decided to finally get this site going again. I&#39;m already spending too much time tinkering with personal projects instead of class assignments, but at least with this I&#39;ll have something I made to point to.
 This site used to be up as a sort of mini-resume, but I let it slide into obselesence and killed it rather than leave an inaccurate site up without the time or motivation to maintain it.</description>
     </item>
