@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>maxfieldlehman.com</title>
-    <link>http://maxfieldlehman.com/</link>
-    <description>Recent content on maxfieldlehman.com</description>
+    <title>Posts on maxfieldlehman.com</title>
+    <link>http://maxfieldlehman.com/posts/</link>
+    <description>Recent content in Posts on maxfieldlehman.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Mar 2018 22:27:40 -0700</lastBuildDate>
     
-	<atom:link href="http://maxfieldlehman.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://maxfieldlehman.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
