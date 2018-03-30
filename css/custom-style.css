@@ -1,6 +1,5 @@
 body {
-    font-family: 'Montserrat', 'Open Sans', "Raleway";
-    /* font-weight: 200; */
+    font-family: "Raleway", sans-serif;
 }
 
 #title, h1 {
@@ -15,5 +14,4 @@ body {
 a {
     text-decoration: underline;
     border-bottom: 0px solid #ccc;
-    /* text-decoration-skip: ink; */
 }
