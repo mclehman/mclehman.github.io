@@ -1,0 +1,19 @@
+body {
+    font-family: 'Montserrat', 'Open Sans', "Raleway";
+    /* font-weight: 200; */
+}
+
+#title, h1 {
+    font-family: 'Averia Serif Libre', cursive;
+}
+
+#big-link, h1 {
+    font-family: 'Averia Serif Libre', 'Press Start 2P', 'Cabin Sketch';
+    font-size: 48px;
+}
+
+a {
+    text-decoration: underline;
+    border-bottom: 0px solid #ccc;
+    /* text-decoration-skip: ink; */
+}
