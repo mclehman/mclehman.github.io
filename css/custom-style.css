@@ -18,6 +18,12 @@ body {
     font-size: 48px;
 }
 
+#content code {
+    padding: 0.3rem;
+    background-color: #4c4c4c;
+    border-radius: 8px;
+}
+
 a {
     text-decoration: underline;
     border-bottom: 0px solid #ccc;
