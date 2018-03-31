@@ -3,6 +3,7 @@ html {
     background: -webkit-linear-gradient(to bottom, #334566, #311b35);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to bottom, #334566, #311b35); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     /* background-size: cover; */
+    height: 100%; /* Black magic, fixes mobile chrome, at least when remote debugging. */
     min-height: 100%;
     background-size: 100%, 100%;
 }
