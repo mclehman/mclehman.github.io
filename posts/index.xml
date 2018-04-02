@@ -28,9 +28,9 @@ When I made sure to take ligatures into account, I found out that Raleway&#39;s 
       <pubDate>Fri, 30 Mar 2018 12:33:45 -0700</pubDate>
       
       <guid>https://maxfieldlehman.com/posts/serving-this-site/</guid>
-      <description>Somewhat predictably, the first thing I took care on here after making that &#34;plans going forward&#34; list was not even featured on said list: setting up HTTPS.
+      <description>Somewhat predictably, the first thing I took care of on here after making that &#34;plans going forward&#34; list was not even featured on said list: setting up HTTPS.
 To be honest, I&#39;m 100% faking it at the moment, but seeing as it&#39;s a static site that doesn&#39;t handle anything critical, I really just wanted people to be subtly reassured by the little lock in the address bar.
-I set up &#34;flexible&#34; HTTPS (including redirects from bare HTTP URLs) and caching with a free-tier Cloudflare account.</description>
+I set up &#34;</description>
     </item>
     
     <item>
