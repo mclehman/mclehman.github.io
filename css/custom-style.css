@@ -29,3 +29,18 @@ a {
     text-decoration: underline;
     border-bottom: 0px solid #ccc;
 }
+.footer {
+    font-family: "Raleway", sans-serif;
+    display: block;
+    position: static;
+    color: #7c69a5;
+    margin-top: 2%;
+    height: 50 width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+    bottom: 0;
+}
+
+.footer a {
+    color: #7c69a5;
+}
