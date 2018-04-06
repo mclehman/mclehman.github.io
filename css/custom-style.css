@@ -61,6 +61,10 @@ a:hover {
     line-height: 20px;
 }
 
+#content li {
+    margin-bottom: 1em;
+}
+
 #content .summary p {
     margin-left: 2em;
     display: block;
