@@ -17,9 +17,9 @@
       <pubDate>Fri, 30 Mar 2018 21:20:18 -0700</pubDate>
       
       <guid>https://maxfieldlehman.com/posts/montserrat-is-out/</guid>
-      <description>Raleway is in.
-Somehow, I managed to find and use a font without ligatures without noticing for a while. Eventually, the tiny gaps and overlaps got to me and I came to my senses.
-When I made sure to take ligatures into account, I found out that Raleway&#39;s solid support for them (especially ff, ffi, ffl) is more than enough to outweigh my distaste for the crossing W. I had some reservations about using it as a body font, but after lowering the weight slightly, I&#39;m happy with the end result.</description>
+      <description>&lt;p&gt;Raleway is in.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +28,9 @@ When I made sure to take ligatures into account, I found out that Raleway&#39;s 
       <pubDate>Fri, 30 Mar 2018 12:33:45 -0700</pubDate>
       
       <guid>https://maxfieldlehman.com/posts/serving-this-site/</guid>
-      <description>Somewhat predictably, the first thing I took care of on here after making that &#34;plans going forward&#34; list was not even featured on said list: setting up HTTPS.
-To be honest, I&#39;m 100% faking it at the moment, but seeing as it&#39;s a static site that doesn&#39;t handle anything critical, I really just wanted people to be subtly reassured by the little lock in the address bar.
-I set up &#34;</description>
+      <description>&lt;p&gt;Somewhat predictably, the first thing I took care of on here after making that &#34;plans going forward&#34; list was not even featured on said list: setting up HTTPS.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,8 +39,9 @@ I set up &#34;</description>
       <pubDate>Thu, 29 Mar 2018 22:27:40 -0700</pubDate>
       
       <guid>https://maxfieldlehman.com/posts/building-this-site/</guid>
-      <description>I shopped around a little before deciding to use Hugo as the generator for my site. I&#39;d been meaning to give Gutenberg a chance for a while, and Hakyll appeals to the part of my brain that likes taking painfully abstract math courses, but in the end I decided to go for something a bit more established and popular.
-One of the perks of Hugo is Org mode support as a drop in replacement for Markdown.</description>
+      <description>&lt;p&gt;I shopped around a little before deciding to use &lt;a href=&#34;https://gohugo.io&#34; title=&#34;Hugo&#34;&gt;Hugo&lt;/a&gt; as the generator for my site.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,8 +50,9 @@ One of the perks of Hugo is Org mode support as a drop in replacement for Markdo
       <pubDate>Thu, 29 Mar 2018 14:15:35 -0700</pubDate>
       
       <guid>https://maxfieldlehman.com/posts/genesis/</guid>
-      <description>At a truly inopportune time, I&#39;ve decided to finally get this site going again. I&#39;m already spending too much time tinkering with personal projects instead of class assignments, but at least with this I&#39;ll have something I made to point to.
-This site used to be up as a sort of mini-resume, but I let it slide into obselesence and killed it rather than leave an inaccurate site up without the time or motivation to maintain it.</description>
+      <description>&lt;p&gt;At a truly inopportune time, I&#39;ve decided to finally get this site going again.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

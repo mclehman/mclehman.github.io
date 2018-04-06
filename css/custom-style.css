@@ -29,6 +29,11 @@ a {
     text-decoration: underline;
     border-bottom: 0px solid #ccc;
 }
+
+a:hover {
+    color: #8f8fbf;
+}
+
 .footer {
     font-family: "Raleway", sans-serif;
     display: block;
@@ -43,4 +48,32 @@ a {
 
 .footer a {
     color: #7c69a5;
+}
+
+.footer a:hover {
+    color: #8f8fbf;
+}
+
+#content .summary {
+    margin-left: 1em;
+    display: block;
+    font-size:.8rem;
+    line-height: 20px;
+}
+
+#content .summary p {
+    margin-left: 2em;
+    display: block;
+    font-size: .8rem;
+    line-height: 20px;
+    /* width: 60%; */
+}
+
+.tags {
+    margin-left: 3em;
+    /* word-spacing: .5rem; */
+    color: #dfdfdf;
+    font-size: .8rem;
+    font-weight: 500;
+    font-family: "Source Code Pro", monospace;
 }

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>maxfieldlehman.com</title>
-    <link>https://maxfieldlehman.com/</link>
-    <description>Recent content on maxfieldlehman.com</description>
+    <title>Web on maxfieldlehman.com</title>
+    <link>https://maxfieldlehman.com/tags/web/</link>
+    <description>Recent content in Web on maxfieldlehman.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Apr 2018 19:30:22 -0700</lastBuildDate>
     
-	<atom:link href="https://maxfieldlehman.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maxfieldlehman.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,17 +18,6 @@
       
       <guid>https://maxfieldlehman.com/projects/this-site/</guid>
       <description>&lt;p&gt;This site is served by &lt;a href=&#34;https://pages.github.com/&#34; title=&#34;Github Pages&#34;&gt;Github Pages&lt;/a&gt;, and the corresponding &lt;a href=&#34;https://github.com/mclehman/mclehman.github.io&#34; title=&#34;repository&#34;&gt;repository&lt;/a&gt; always reflects the currently deployed version of the site, give or take some caching delays.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Montserrat Is Out</title>
-      <link>https://maxfieldlehman.com/posts/montserrat-is-out/</link>
-      <pubDate>Fri, 30 Mar 2018 21:20:18 -0700</pubDate>
-      
-      <guid>https://maxfieldlehman.com/posts/montserrat-is-out/</guid>
-      <description>&lt;p&gt;Raleway is in.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

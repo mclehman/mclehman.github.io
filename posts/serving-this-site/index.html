@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="https://maxfieldlehman.com/css/style.css">
     <link rel="stylesheet" href="https://maxfieldlehman.com/css/custom-style.css">
     
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Averia+Serif+Libre:700|Raleway:300,700|Source+Code+Pro:300">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Averia+Serif+Libre:700|Raleway:300,700|Source+Code+Pro:300,500">
     
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
         crossorigin="anonymous"></script>
@@ -42,7 +42,9 @@
 </html>
 <body><div class="wrap"><div class="section" id="title">Serving This Site</div><div class="section" id="content">Fri Mar 30, 2018 &#183; 328 words
 
-<hr/><p>Somewhat predictably, the first thing I took care of on here after making that "plans going forward" list was not even featured on said list: setting up HTTPS.</p>
+<div><span id="tag"><a href="https://maxfieldlehman.com/tags/web">web</a></span><span id="tag"><a href="https://maxfieldlehman.com/tags/https">https</a></span><span id="tag"><a href="https://maxfieldlehman.com/tags/cloudflare">cloudflare</a></span></div><hr/><p>Somewhat predictably, the first thing I took care of on here after making that "plans going forward" list was not even featured on said list: setting up HTTPS.</p>
+
+<p></p>
 
 <p>To be honest, I'm 100% faking it at the moment, but seeing as it's a static site that doesn't handle anything critical, I really just wanted people to be subtly reassured by the little lock in the address bar.</p>
 
@@ -56,8 +58,7 @@
 <li>(Optional) In the Page Rules section, add a rule setting Cache Level to Cache Everything for <code>https://&lt;domain&gt;.&lt;tld&gt;/*</code> if you'd like to cache your entire site.</li>
 </ul>
 
-<p>I didn't set out to add caching, but it was a nice bonus. As expected, having to clear the cache to see updates immediately on the live site threw a brief wrench into the works. It was particularly frustrating when my local server was correctly sourcing all the relevant stylesheets but the live site wasn't. Jumping over to Cloudflare to purge the cache was making that a bit too slow to debug. A quick skim through the Cloudflare API docs and the <code>curl</code> manpage later, my deploy script now purges the cache after rebuilding the site, committing any changes, and pushing them up to my Github Pages repo.</p>
-</div><div class="section bottom-menu"><hr/><p><a href="/posts">back</a>
+<p>I didn't set out to add caching, but it was a nice bonus. As expected, having to clear the cache to see updates immediately on the live site threw a brief wrench into the works. It was particularly frustrating when my local server was correctly sourcing all the relevant stylesheets but the live site wasn't. Jumping over to Cloudflare to purge the cache was making that a bit too slow to debug. A quick skim through the Cloudflare API docs and the <code>curl</code> manpage later, my deploy script now purges the cache after rebuilding the site, committing any changes, and pushing them up to my Github Pages repo.</p></div><div class="section bottom-menu"><hr/><p><a href="/posts">back</a>
  &#183;
 <a href="/posts">blog</a>
 
