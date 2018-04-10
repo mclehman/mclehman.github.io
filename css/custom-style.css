@@ -61,8 +61,15 @@ a:hover {
     line-height: 20px;
 }
 
+#content li:before {
+    font-family: 'FontAwesome';
+    content: '\f054';
+    margin:0 0 0 -15px;
+}
+
 #content li {
     margin-bottom: 1em;
+    list-style: none;
 }
 
 #content .summary p {
@@ -71,6 +78,10 @@ a:hover {
     font-size: .8rem;
     line-height: 20px;
     /* width: 60%; */
+}
+
+.read-more {
+    margin-left: 2em;
 }
 
 .tags {
