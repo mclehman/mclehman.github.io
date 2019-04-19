@@ -1,0 +1,25 @@
+body {
+    font-family: Avenir Next, Liberation Sans, Arial, sans-serif;
+    background-color: #efefef;
+    color: #101010;
+    max-width: 80ch;
+    padding: 2ch;
+    margin: auto;
+}
+code {
+    font-size: ;
+}
+h2 {
+    margin-left: 20px;
+}
+a {
+    color: #0933c6;
+    text-decoration: none;
+    outline: 0;
+}
+a:hover {
+    text-decoration: underline;
+}
+::selection {
+    background-color: #ffff00;
+}

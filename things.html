@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en_us">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <title>things</title>
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+
+<body>
+    <h1><code>(:server-ish things)</code></h2>
+    <table>
+        <tr><td>=></td><td><a href="https://gitlab.com/0xFORDCOMMA/sessions">sessions</a></td></tr>
+        <tr><td></td><td>This is really just a script to make working with lots of tmux sessions nicer. It provides categorization, an admittedly impractical display of the categorized sessions, and a single command for moving to a session regardless of context. <code>session foo bar</code> will take you to the foo/bar session whether it can jump to it directly, has to leave a current session, or create the destination first.</td></tr>
+        <tr><td></td><td><a href="https://git.sr.ht/~mclehman/guestctl">guestctl</a></td></tr>
+        <tr><td></td><td>
+            This has been an experiment in making a "VM" (read: that thing you're not supposed to do with Docker containers) provisioning system for my lab server. It allows you to spin up guest instances for users with very little effort.
+        </td></tr>
+        <tr><td></td><td>
+            I wouldn't necessarily recommend using it, but it was a lot of fun exploring secure ways for guest instances to manage themselves (container restarts, snapshot creation/rollback) in a secure fashion.
+        </td></tr>
+        <tr><td></td><td>
+            The full system isn't currently visible in the repo, unfortunately. The <code>guestctl-meta</code> script is what allows guest instances to manage themselves. This is managed by giving restricted ssh access to the host which forces calls to that script.
+        </td></tr>
+    </table>
+    <h1><code>(:lispy things)</code></h2>
+    <table>
+        <tr><td>=></td><td>Check back soon, I'm cleaning up my lisp shenanigans to make them public.</td></tr>
+    </table>
+    <h1><code>(:other things)</code></h2>
+    <table>
+        <tr><td>=></td><td><a href="https://sudolph.in">sudolph.in</a></td></tr>
+        <tr><td></td><td>Most of my friends work in the security field. It's embarrassing when we forget basic things like locking our devices when we get up. Originally, we just set a dolphin wallpaper and called it a day, but the state of the art has since advanced. <code>curl -sSL sh.sudolph.in | sh</code> is all you need to remind somebody not to leave things unlocked. If you're <em>really</em> not messing around, you can use the second slot on a Yubikey or something similar for minimal effort dolphining.</td></tr>
+    </table>
+</body>
+
+</html>
