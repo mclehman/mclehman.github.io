@@ -1,19 +1,20 @@
 body {
     font-family: Avenir Next, Liberation Sans, Arial, sans-serif;
-    background-color: #efefef;
-    color: #101010;
+    font-size: larger;
+    background-color: #241734;
+    color: #efefef;
     max-width: 80ch;
-    padding: 2ch;
+    padding: 3ch;
     margin: auto;
 }
-code {
-    font-size: ;
+h1 {
+    color: #ff4365;
 }
-h2 {
-    margin-left: 20px;
+p > code {
+    font-size: x-large;
 }
 a {
-    color: #0933c6;
+    color: #f706cf;
     text-decoration: none;
     outline: 0;
 }
@@ -21,5 +22,6 @@ a:hover {
     text-decoration: underline;
 }
 ::selection {
-    background-color: #ffff00;
+    color: #241734;
+    background-color: #ff6c11;
 }
