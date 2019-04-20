@@ -7,6 +7,12 @@ body {
     padding: 3ch;
     margin: auto;
 }
+#navset {
+    margin-top: -2ch;
+    font-size: 2ch;
+    margin: auto;
+    width: max-content;
+}
 h1 {
     color: #ff4365;
 }
