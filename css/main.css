@@ -1,6 +1,7 @@
 body {
     font-family: Avenir Next, Liberation Sans, Arial, sans-serif;
     font-size: larger;
+    background-repeat: no-repeat;
     background-color: #241734;
     background: linear-gradient(0deg, rgba(36,23,52,1) 29%, rgba(56,37,116,1) 100%) fixed;
     color: #efefef;
